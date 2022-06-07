@@ -1,2 +1,2 @@
 # github-for-beginners
-Изичаем ГИТ.
+Изучаем ГИТ.
